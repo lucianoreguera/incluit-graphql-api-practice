@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "MAQUETADO",
+        "description": "Es la estructura y el diseño de tus sitios y aplicaciones web. La puerta de entrada de los usuarios a tus productos y la forma en la que los visualizarán."
+    },
+    {
+        "id": 2,
+        "name": "PROGRAMACIÓN EN JS",
+        "description": "JS permite interactuar con las aplicaciones y hacerlas dinámicas, creando desde una calculadora hasta plataformas como Twitter o Instagram. Toda aplicación web existente hace uso de JS."
+    },
+    {
+        "id": 3,
+        "name": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+        "description": "El arte de programar siguiendo lineamientos probados y eficientes nos permite tener un código reutilizable, ordenado y fácil de mantener."
+    },
+    {
+        "id": 4,
+        "name": "PATRONES DE DISEÑO",
+        "description": "Son técnicas conocidas, probadas y utilizadas continuamente en la creación de sistemas informáticos. Conocerás las principales técnicas y aprenderás a emplearlas en tus aplicaciones web."
+    },
+    {
+        "id": 5,
+        "name": "APIS",
+        "description": "Podrás utilizar servicios de terceros y bases de datos abiertas para alimentar tus propias aplicaciones. También crearás tus propias APIs en el back-end de tus aplicaciones."
+    },
+    {
+        "id": 6,
+        "name": "BASES DE DATOS",
+        "description": "El continuo flujo de información de la web necesita ser almacenado. Aprenderás a crear tus propios modelos de bases de datos de acuerdo al problema que estés resolviendo."
+    },
+    {
+        "id": 7,
+        "name": "VERSIONADO",
+        "description": "Versioná tu código fuente como lo hacen el 100% de las empresas de tecnología."
+    }
+]

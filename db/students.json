@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Elsa",
+        "lastname": "Bor del Encuentro",
+        "courseID": 1
+    },
+    {
+        "id": 2,
+        "name": "Esteban",
+        "lastname": "Quito",
+        "courseID": 1
+    },
+    {
+        "id": 3,
+        "name": "Dolores",
+        "lastname": "Fuertes de Cabeza",
+        "courseID": 1
+    },
+    {
+        "id": 4,
+        "name": "Homero",
+        "lastname": "Simpson",
+        "courseID": 1
+    }
+]
