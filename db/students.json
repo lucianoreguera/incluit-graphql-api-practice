@@ -9,18 +9,18 @@
         "id": 2,
         "name": "Esteban",
         "lastname": "Quito",
-        "courseID": 1
+        "courseID": 3
     },
     {
         "id": 3,
         "name": "Dolores",
         "lastname": "Fuertes de Cabeza",
-        "courseID": 1
+        "courseID": 4
     },
     {
         "id": 4,
         "name": "Homero",
         "lastname": "Simpson",
-        "courseID": 1
+        "courseID": 6
     }
 ]

@@ -1,13 +1,21 @@
 {
   "name": "graphql-api-practice",
   "version": "1.0.0",
-  "description": "Practice graphql incluit",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianoreguera/incluit-graphql-api-practice.git"
   },
   "author": "Luciano Reguera",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianoreguera/incluit-graphql-api-practice/issues"
+  },
+  "homepage": "https://github.com/lucianoreguera/incluit-graphql-api-practice#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
